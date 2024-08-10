@@ -2,7 +2,7 @@
 
 ## Deployed Version
 
-You can view the deployed version of this project on Vercel [here]([text](https://cutomer-portal-m98hlgjzi-harshit251102s-projects.vercel.app/)).
+You can view the deployed version of this project on Vercel [here](https://cutomer-portal-m98hlgjzi-harshit251102s-projects.vercel.app/).
 
 ## Running the Project Locally
 
@@ -17,18 +17,15 @@ To run this project locally, follow these steps:
 ### Installation
 
 1. **Clone the repository:**
+    git clone https://github.com/harshit251102/cutomer-portal.git
+    cd cutomer-portal
 
-git clone https://github.com/harshit251102/cutomer-portal.git
-cd cutomer-portal
-
-1. **Install dependencies:**
-
-npm install
+2. **Install dependencies:**
+    npm install
 
 
 3. **Start the development server:**
-
-npm start
+    npm start
 
 
 ## Available Scripts
