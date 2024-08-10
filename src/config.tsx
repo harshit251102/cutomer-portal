@@ -1,0 +1,1 @@
+export const UNSPLASH_API_ACCESS_KEY = 'xyTppem8dTlNRYaCRvYDAHcVNw5uX-DS3chfZfTNAqk'; // This is my personal account access key, overuse of this key will result in rate limiting
