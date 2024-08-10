@@ -19,6 +19,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     git clone https://github.com/harshit251102/cutomer-portal.git
+    
     cd cutomer-portal
 
 2. **Install dependencies:**
