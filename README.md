@@ -1,6 +1,35 @@
-# Getting Started with Create React App
+# Cube - React Assignment - Customer Portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Deployed Version
+
+You can view the deployed version of this project on Vercel [here]([text](https://cutomer-portal-m98hlgjzi-harshit251102s-projects.vercel.app/)).
+
+## Running the Project Locally
+
+To run this project locally, follow these steps:
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+- Unsplash API access key (Currently used my personal key and placed it in config.tsx)
+
+### Installation
+
+1. **Clone the repository:**
+
+git clone https://github.com/harshit251102/cutomer-portal.git
+cd cutomer-portal
+
+1. **Install dependencies:**
+
+npm install
+
+
+3. **Start the development server:**
+
+npm start
+
 
 ## Available Scripts
 
